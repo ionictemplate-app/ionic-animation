@@ -1,3 +1,6 @@
+## Demo Preview
+  <img src="https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/animation.gif" alt="ionic animation demo">
+  
 
 <p align="center">
   <a href="https://codecanyon.net/user/captain96778/portfolio">
@@ -53,7 +56,7 @@ Read the [Getting started page](https://help-ionic-template.firebaseapp.com/) fo
 </p>
 
 ## Video Installation Guide 
-| Ionic Restaurant app  | Restaurant Admin CMS |
+| Ionic Fruit App  | Ionic Clothes App |
 | ------------- | ------------- |
 | [![IONIC FIREBASE FRUIT MOBILE APP INSTALLATION GUIDE](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-fruit.jpg)](https://youtu.be/V1O1bkcjpcA) | [![IONIC5 CLOTHES APP WITH FIREBASE INSTALLATION GUIDE](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-clothes.jpg)](https://youtu.be/h7UD0k44J78)|
 
@@ -139,7 +142,7 @@ You can Buy the Admin Dashboard from [IonicTemplateTestAdmin](https://fruit-angu
 
 | Ionic 5 / Angular 8 Dark UI Theme / Template App  | Ionic 5 / Angular 8 Gary UI Theme / Template App |
 | ------------- | ------------- |
-| <a href="https://codecanyon.net/item/ionic-5-angular-8-dark-ui-theme-template-app-starter-app/25261503" rel="Ionic 5 / Angular 8 Dark UI Theme / Template App">![Ionic 5 Angular 8 Dark UI Theme Template App](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-dark.jpg) </a> |  <a href="https://codecanyon.net/item/ionic-5-angular-8-gray-ui-theme-template-app-starter-app/25267829" rel="Ionic 5 angular 8 gray theme  Mobile app UI"> ![Ionic 5  Angular 8 Gary UI Theme  Template App ](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-gary.jpg) </a>| 
+| <a href="https://codecanyon.net/item/ionic-5-angular-8-dark-ui-theme-template-app-starter-app/25261503" rel="Ionic 5 / Angular 8 Dark UI Theme / Template App">![Ionic 5 Angular 8 Dark UI Theme Template App](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-dark.jpg) </a> |  <a href="https://codecanyon.net/item/ionic-5-angular-8-gray-ui-theme-template-app-starter-app/25267829" rel="Ionic 5 angular 8 gray theme  Mobile app UI"> ![Ionic 5  Angular 8 Gary UI Theme  Template App ](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-gray.jpg) </a>| 
 
 ## Documentation
 
