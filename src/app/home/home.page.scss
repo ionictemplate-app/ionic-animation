@@ -1,4 +1,24 @@
-.welcome-card img {
-  max-height: 35vh;
-  overflow: hidden;
+:host{
+  .left {
+    position: absolute;
+    width: 100px;
+    height: 100%;
+    display: block;
+  }
+
+  .right {
+    position: absolute;
+    height: 100%;
+    margin-left: 90px;
+  }
+
+  .box {
+    margin: 5px;
+    display: flex;
+  }
+
+  .p-title{
+    margin-left: 7px;
+    line-height: 48px;
+  }
 }
