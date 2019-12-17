@@ -1,19 +1,17 @@
 
 <p align="center">
   <a href="https://codecanyon.net/user/captain96778/portfolio">
-    <img src="https://res.cloudinary.com/ionicfirebaseapp/image/upload/v1564048005/ifa-icon_srjsu3.png" alt="ionictemplate logo">
+    <img src="https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/logo.png" alt="ionictemplate logo">
   </a>
 </p>
 <h3 align="center">IONICTEMPLATE</h3>
 
-<a href="https://www.ionicfirebaseapp.com/coupons" rel=no follow><img src="https://res.cloudinary.com/dlx35qw0l/image/upload/v1576219871/Codecanyon/Artboard_2_4.png" alt="christmas sale">
-</a>
- <a href="https://www.ionicfirebaseapp.com/products/ionic-firebase-restaurant-mobile-app"> <h3 align="center">GET IONIC V4 </h3> </a>
+ <a href="https://codecanyon.net/item/ionic5-fruit-app-with-firebase/24448819"> <h3 align="center">GET IONIC Fruit V5 </h3> </a>
 
 <p align="center">
-  Marketplace for Mobile app and Backend that developed on leading Enterprise Technologies with as well as with your custom Applictaion design.
+ If you want to build your own Fruit app with the latest version of Ionic framework, and allows you to build easily your mobile app both for Android and iOS devices, through this App, You can publish directly to production, add new data from the backend.
   <br>
-  <a href="https://docs.ionicfirebaseapp.com/ionicrestaurantapp/"><strong>Explore Restaurant docs »</strong></a>
+  <a href="https://help-ionic-template.firebaseapp.com/"><strong>Online  docs »</strong></a>
   <br>
   <br>
   </p>
@@ -23,6 +21,8 @@
   <a href="https://codecanyon.net/user/captain96778/portfolio">Products</a>
   ·
   <a href="https://codecanyon.net/user/captain96778/portfolio">Envato</a>
+    ·
+    <a href="https://fruit-angular-admin-app.firebaseapp.com">Angular Fruit Test Admin (user: test@gmail.com password: 123456)</a>
   </h2>
 
 ## Table of contents
@@ -36,131 +36,130 @@
 
 ## Quick start
 
-Ionic V3 version is available for free download. 
+Ionic Animation project is available for free download. 
 
-Buy Ionic V4 from [ionicfirebaseapp](https://www.ionicfirebaseapp.com/products/ionic-firebase-restaurant-mobile-app)
+Buy Ionic Fruit V5 from [EnvatoMarket](https://codecanyon.net/item/ionic5-fruit-app-with-firebase/24448819)
 
-- [Download the latest release Free.](https://www.ionicfirebaseapp.com/products/ionic-firebase-restaurant-mobile-app)
+- [Download the latest release Free.](https://ionic-app-angular-assets.firebaseapp.com/assets/fruit/fruit.apk)
 - Install with [npm](https://www.npmjs.com/): `npm install`
 - Install with [ionic](https://ionicframework.com/): `ionic serve`
 
-Read the [Getting started page](https://docs.ionicfirebaseapp.com/ionicrestaurantapp/) for information on the ionic firebase restaurant app.
+Read the [Getting started page](https://help-ionic-template.firebaseapp.com/) for information on the ionic fruit/template app.
 
 <p align="center">
-  <a href="https://www.ionicfirebaseapp.com/products/ionic-3-restaurant-mobile-app">
-    <img src="https://res.cloudinary.com/dlx35qw0l/image/upload/v1566991563/Restaurant-Mobile-app_hynhwa.jpg" alt="ionic 3 restaurant mobile app">
+  <a href="https://codecanyon.net/user/captain96778/portfolio">
+    <img src="https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/recommand.jpg" alt="ionic recommend mobile app">
   </a>
 </p>
 
 ## Video Installation Guide 
 | Ionic Restaurant app  | Restaurant Admin CMS |
 | ------------- | ------------- |
-| [![IONIC FIREBASE RESTAURANT MOBILE APP INSTALLATION GUIDE](https://res.cloudinary.com/dlx35qw0l/image/upload/v1568114294/restaurant-thumbnail_dv7emx.jpg)](http://www.youtube.com/watch?v=vyt5fe5UON4) | [![FIREBASE CMS INSTALLATION GUIDE](https://res.cloudinary.com/dlx35qw0l/image/upload/v1568114293/Youtube-thumbnail_fzudsy.jpg)](https://www.youtube.com/watch?v=DdW09PWLBFk)|
+| [![IONIC FIREBASE FRUIT MOBILE APP INSTALLATION GUIDE](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-fruit.jpg)](https://youtu.be/V1O1bkcjpcA) | [![IONIC5 CLOTHES APP WITH FIREBASE INSTALLATION GUIDE](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-clothes.jpg)](https://youtu.be/h7UD0k44J78)|
 
 ## Mobile app Features
 
-1. Browse categories and their  MenuItems
-2. Add to cart MenuItems
-3. Table booking available
-4. Live chat with Restaurant Admin
-5. News list related to food & restaurant
-6. Save favorite item to buy again just in a click
-7. Manage Address and Checkout features
-8. Payment integration with Paypal and Stripe
-9. Easy to integrate any local payment gateway
-10. Track your order status
-11. Offers, Coupons, Taxes applied
-12. Develop with Ionic 3 / 4
-13. Clean UI and Easy to Customize
-14. Support Firebase and custom Rest API backend 
-15. Easy to integrate with our both Firebase and NodeJS backend. 
+1. Sign In
+2. Sign Up
+3. Home page
+4. Discount page
+5. Category page
+6. Product List page
+7. Filter Items by Categories/Subcategories
+8. Add products to Cart
+9. Place orders
+10. Calculate Shipping Fee
+11. Address Management
+12. Order List/Details
+13. Wishlist/Favorites
+14. Search Items by keywords
+15. Favorite Page
+16. Payments with Cash
+17. Multi-language
+18. PWA support
+19. SEO Friendly
+20. Card Page
+21. My center page
+22. notice page
+23. product detail page
+24. Push Notifications
+25. video play.
+26. photos 
+27. more...
 
 ## What's included
 
 Within the download you'll find angular firebase version of ionic app. Admin Dashboard to manage Menu or Orders not been available in this repo. 
 
-You can Buy the Admin Dashboard from [ionicfirebaseapp](https://www.ionicfirebaseapp.com/products/backend-restaurant-firebase-app/)
+You can Buy the Admin Dashboard from [IonicTemplateTestAdmin](https://fruit-angular-admin-app.firebaseapp.com/)
 
 <p align="center">
-  <a href="https://www.ionicfirebaseapp.com/products/backend-restaurant-firebase-app/">
-    <img src="https://res.cloudinary.com/dlx35qw0l/image/upload/v1566992480/Restaurant-Dashboard_1_vldizk.jpg" alt="ionicfirebaseapp restaruant nodejs backend">
+  <a href="https://codecanyon.net/item/ionic5-fruit-app-with-firebase/24448819">
+    <img src="https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/admin.jpg" alt="angular fruit  backend">
   </a>
 </p>
 
-1. Manage single restaurant
-2. Admin can access sales report for own restaurant
-3. Manage Categories and MenuItems
-4. Access new order and update there delivery status
-5. Table Booking Approve / Reject from Admin CMS
-6. Manage Coupon , Tag , Users List
-7. Send Push notifications to app users
-8. Loyalty points and Manage Delivery pincode Area
-9. Chat with customer
-10. Setting and Manage Blog/Articles
-11. Many more...
-
-## Restaurant Web app 
-
-Restaruant web app develop with angular 7 and integrated with both backend firebase and nodeJs version we have. You can check more details about both the webapp.
-
-<p align="center">
-  <a href="https://www.ionicfirebaseapp.com/products/restaurant-webapp-angular-firebase">
-    <img src="https://res.cloudinary.com/dlx35qw0l/image/upload/v1566991561/Firebase-Restaurant-Web-App_xzy6ao.jpg" alt="ionicfirebaseapp restaruant nodejs backend">
-  </a>
-</p>
-
-
-
-## Bugs and feature requests
-
-Have a bug or a feature request. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/ionicfirebaseapp/ionic-3-restaurantapp/issues/new).
+1. Sign In/ Sign Up + Social Login
+2. Dashboard page
+3. address page(add,edit,delete,query)
+4. banner page(add,edit,delete,query)
+5. cate page(add,edit,delete,query)
+6. cate-relation page(add,edit,delete,query)
+7. discount page(add,edit,delete,query)
+8. delivery page(add,edit,delete,query)
+9. favorite page
+10. product page(add,edit,delete,query)
+11. lock page
+12. log-chart page
+13. login-log page
+14. not-found page
+15. notice page (add,edit,delete,query)
+16. order page
+17. order-chart page
+18. good Items by Categories/Subcategories
+19. ows(add,edit,delete,query)
+20. pays(add,edit,delete,query)
+21. sub-cate(add,edit,delete,query)
+22. users
+23. Calculate Shipping
+24. Order List/Details
+25. Favorites
+26. Search Items by keywords
+27. Multi-language
+28. Product photos/video uploads
+29. Product content Support images uploads
 
 ## Most Rated product 
 
-| React native restaurant mobile app  | Ionic clothing mobile app |
+| Ionic Fruit mobile app  | Ionic clothing mobile app |
 | ------------- | ------------- |
-| <a href="https://www.ionicfirebaseapp.com/products/react-native-restaurant-mobile-app" rel="React native restaurant mobile app">![React native restaurant mobile app](https://res.cloudinary.com/dzu7tvexv/image/upload/f_auto,q_auto/v1566279477/ygjrptp0abundq1dhft1.jpg) </a> |  <a href="https://www.ionicfirebaseapp.com/products/ionic-nodeJs-ecommerce-mobile-app" rel="Ionic clothing mobile app"> ![Ionic clothing mobile app](https://res.cloudinary.com/dzu7tvexv/image/upload/f_auto,q_auto/v1566279531/gtruhsqaxl6iks26pdap.jpg) </a>| 
+| <a href="https://codecanyon.net/item/ionic5-fruit-app-with-firebase/24448819" rel="Ionic Fruit mobile app">![Ionic Fruit mobile app](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-fruit.jpg) </a> |  <a href="https://codecanyon.net/item/ionic-4-online-clothes-shop-app-with-angular-admin-backend/25007518" rel="Ionic clothing mobile app"> ![Ionic clothing mobile app](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-clothes.jpg) </a>| 
 
-## Most Rated Free product 
+## Most Rated  product 
 
-| ionic UI Kit  | Flutter Mobile app |
+| Ionic 5 / Angular 8 Dark UI Theme / Template App  | Ionic 5 / Angular 8 Gary UI Theme / Template App |
 | ------------- | ------------- |
-| <a href="https://www.ionicfirebaseapp.com/products/ionic-starter-ui-ux-kit" rel="Free Ionic UI Starter Kit">![Free Ionic UI Starter Kit](https://res.cloudinary.com/dzu7tvexv/image/upload/w_590,h_300,f_auto,q_auto/v1566380040/rheff2vucbtuqeugpbmv.jpg) </a> |  <a href="https://www.ionicfirebaseapp.com/products/flutter-mobile-app" rel="Free Flutter Todo Mobile app UI"> ![Free Flutter Todo Mobile app UI](https://res.cloudinary.com/dzu7tvexv/image/upload/w_590,h_300,f_auto,q_auto/v1540272427/y3sogf3if3ostylxr95y.jpg) </a>| 
+| <a href="https://codecanyon.net/item/ionic-5-angular-8-dark-ui-theme-template-app-starter-app/25261503" rel="Ionic 5 / Angular 8 Dark UI Theme / Template App">![Ionic 5 Angular 8 Dark UI Theme Template App](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-dark.jpg) </a> |  <a href="https://codecanyon.net/item/ionic-5-angular-8-gray-ui-theme-template-app-starter-app/25267829" rel="Ionic 5 angular 8 gray theme  Mobile app UI"> ![Ionic 5  Angular 8 Gary UI Theme  Template App ](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-gary.jpg) </a>| 
 
 ## Documentation
 
-ionicfirebase restarurant documentation, included in this repo in the root directory, is built with [ionic](https://ionicframework.com/) and publicly hosted on ionicfirebaseapp docs Pages at <https://docs.ionicfirebaseapp.com/ionicrestaurantapp/>.
+Ionictemplate fruit documentation, included in this repo in the root directory, is built with [ionic](https://ionicframework.com/) and publicly hosted on Ionic Template docs Pages at <https://help-ionic-template.firebaseapp.com/>.
 
 ## More About This Application
 
-Are you looking to launch your online shops like a restaurant or any eCommerce mobile app then this ionic app will help you to build the app in just days? ionic firebase online restaurant & food ordering software, system, and mobile application offer amazing features to build a powerful online ordering system or app for your restaurant. It enhances online food ordering experience for your customers with your mobile restaurant app. It's connected with our firebase/nodeJS restaurant backend dashboard, and all the contents can be managed from one dashboard/CMS. It is straight forward to install and connect with our backend. The code is for FREE now, download our Ionic 3 Restaurant Mobile App template, and you are ready to go. So what are you waiting for? Start your online business with your Mobile app today!
+Are you looking to launch your online shops like a fruit or any eCommerce mobile app then this ionic app will help you to build the app in just days? ionic firebase online fruit & clothes ordering software, system, and mobile application offer amazing features to build a powerful online ordering system or app for your restaurant. It enhances online food ordering experience for your customers with your mobile restaurant app. It's connected with our firebase/nodeJS restaurant backend dashboard, and all the contents can be managed from one dashboard/CMS. It is straight forward to install and connect with our backend. The code is for FREE now, download our Ionic 3 Restaurant Mobile App template, and you are ready to go. So what are you waiting for? Start your online business with your Mobile app today!
 
-
-## Copyright and license
-
-Code and documentation copyright 2017-2019 the [IONICFIREBASEAPP Authors](https://ionicfirebaseapp.com) and [PIETECH SOLUTION PVT LTD.](https://pietechsolution.com) Code released under the [MIT License]. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
 
 ## Useful Links
 
-- [More products](https://www.ionicfirebaseapp.com/products) from ionicfirebaseapp
-- [Tutorials](https://www.youtube.com/channel/UCAes_uRy_H3pJ7z4OO78oIg)
-- [Freebies]() from Ionicfirebaseapp
-- [Affiliate Program](https://www.ionicfirebaseapp.com/affiliate) (earn money)
+- [More products](https://codecanyon.net/user/captain96778/portfolio) from EnvatoMarket
+- [Tutorials](https://www.youtube.com/channel/UCVCFQPnGAwAEzKotkGEFC4Q)
 
-### Social Media
-
-Twitter: <https://twitter.com/ionicfirebaseap>
-
-Facebook: <https://www.facebook.com/ionicfirebaseapp>
-
-Linkedin: <https://www.linkedin.com/company/ionicfirebaseapp>
-
-Instagram: <https://www.instagram.com/ionicfirebaseapp>
 
 ### Most Popular Technologies & Products based on User Choice Last Month
 
-Flutter App: Browse Flutter Application @ https://www.ionicfirebaseapp.com/category/flutter-app
+Ionic5 Fruit App with Firebase: @ https://codecanyon.net/item/ionic5-fruit-app-with-firebase/24448819
 
-NodeJs Backend: Browse Your NodeJS Backend @ https://www.ionicfirebaseapp.com/category/backend
+Ionic 5 / Angular 8 Dark UI Theme / Template App | Starter App:  @ https://codecanyon.net/item/ionic-5-angular-8-dark-ui-theme-template-app-starter-app/25261503
 
-Multi Restaurant App: Brose Multi Restaurant App @ https://www.ionicfirebaseapp.com/category/multi-restaurant
+Ionic 4 Online Clothes Shop App with Angular Admin Backend @ https://codecanyon.net/item/ionic-4-online-clothes-shop-app-with-angular-admin-backend/25007518
