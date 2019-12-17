@@ -150,7 +150,9 @@ Ionictemplate fruit documentation, included in this repo in the root directory, 
 
 ## More About This Application
 
-Are you looking to launch your online shops like a fruit or any eCommerce mobile app then this ionic app will help you to build the app in just days? ionic firebase online fruit & clothes ordering software, system, and mobile application offer amazing features to build a powerful online ordering system or app for your restaurant. It enhances online food ordering experience for your customers with your mobile restaurant app. It's connected with our firebase/nodeJS restaurant backend dashboard, and all the contents can be managed from one dashboard/CMS. It is straight forward to install and connect with our backend. The code is for FREE now, download our Ionic 3 Restaurant Mobile App template, and you are ready to go. So what are you waiting for? Start your online business with your Mobile app today!
+If you want to build your own Clothes app with the latest version of Ionic framework, and allows you to build easily your mobile app both for Android and IOS devices, through this App, You can publish directly to production, add new data from the backend.
+
+It Builds with Angular 8+, Ionic 5+, Typescript and SASS to take advantage of the future web standards.
 
 
 ## Useful Links
