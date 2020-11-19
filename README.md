@@ -1,6 +1,9 @@
 ## Demo Preview
   <img src="https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/animation.gif" alt="ionic animation demo">
   
+##  Ionic 6 / Angular 10 Fitness Theme / Template (Android+Ios+Web)App
+<img alt="Ionic 6 / Angular 11 Fitness UI Theme / Template(Android+ios+web) App | Starter App"
+                 src="https://i.ibb.co/dp663CH/previewdemo.gif"/>
 
 <p align="center">
   <a href="https://codecanyon.net/user/captain96778/portfolio">
@@ -58,7 +61,7 @@ Read the [Getting started page](https://help-ionic-template.firebaseapp.com/) fo
 ## Video Installation Guide 
 | Ionic Fruit App  | Ionic Clothes App |
 | ------------- | ------------- |
-| [![IONIC FIREBASE FRUIT MOBILE APP INSTALLATION GUIDE](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-fruit.jpg)](https://youtu.be/V1O1bkcjpcA) | [![IONIC5 CLOTHES APP WITH FIREBASE INSTALLATION GUIDE](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-clothes.jpg)](https://youtu.be/h7UD0k44J78)|
+| [![IONIC FIREBASE FRUIT MOBILE APP INSTALLATION GUIDE](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-fruit.jpg)](https://youtu.be/gKqxDIlzCXg) | [![IONIC5 CLOTHES APP WITH FIREBASE INSTALLATION GUIDE](https://github.com/ionictemplate-app/ionic-animation/blob/master/src/assets/images/demo/ionic-clothes.jpg)](https://youtu.be/rmbSRFzWg0s)|
 
 ## Mobile app Features
 
@@ -158,13 +161,18 @@ It Builds with Angular 8+, Ionic 5+, Typescript and SASS to take advantage of th
 ## Useful Links
 
 - [More products](https://codecanyon.net/user/captain96778/portfolio) from EnvatoMarket
-- [Tutorials](https://www.youtube.com/channel/UCVCFQPnGAwAEzKotkGEFC4Q)
+- [Tutorials](https://www.youtube.com/channel/UC2u49qcE30-q-pYNbj5oNXg)
 
 
 ### Most Popular Technologies & Products based on User Choice Last Month
+
+Ionic 6 / Angular 10 Fitness Theme / Template (Android+Ios+Web)App  @https://codecanyon.net/item/ionic-6-angular-10-fitness-theme-template-androidioswebapp/29415999
+Ionic 6 / Angular 10 UI Blue Theme / Template App | Starter App @https://codecanyon.net/item/ionic-6-angular-10-ui-blue-theme-template-app-starter-app/29315633
 
 Ionic5 Fruit App with Firebase: @ https://codecanyon.net/item/ionic5-fruit-app-with-firebase/24448819
 
 Ionic 5 / Angular 8 Dark UI Theme / Template App | Starter App:  @ https://codecanyon.net/item/ionic-5-angular-8-dark-ui-theme-template-app-starter-app/25261503
 
 Ionic 4 Online Clothes Shop App with Angular Admin Backend @ https://codecanyon.net/item/ionic-4-online-clothes-shop-app-with-angular-admin-backend/25007518
+
+
